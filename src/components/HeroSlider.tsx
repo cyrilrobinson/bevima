@@ -4,14 +4,14 @@ import { ChevronLeft, ChevronRight } from 'lucide-react';
 const slides = [
   {
     id: 1,
-    image: 'https://images.pexels.com/photos/162568/mining-quarry-stone-coal-162568.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop',
+    image: 'https://images.pexels.com/photos/1108572/pexels-photo-1108572.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop',
     title: 'Powering the Caribbean\'s Future',
     subtitle: 'Leading coal mining operations delivering energy security through responsible extraction and sustainable mining practices.',
     cta: 'Explore Our Operations'
   },
   {
     id: 2,
-    image: 'https://images.pexels.com/photos/1108572/pexels-photo-1108572.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop',
+    image: 'https://images.pexels.com/photos/162568/mining-quarry-stone-coal-162568.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop',
     title: 'Premium Iron Ore Excellence',
     subtitle: 'World-class iron ore products meeting international standards for global steel production and infrastructure development.',
     cta: 'Our Products'
@@ -46,14 +46,14 @@ const slides = [
   },
   {
     id: 7,
-    image: 'https://images.pexels.com/photos/2760241/pexels-photo-2760241.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop',
+    image: 'https://images.pexels.com/photos/1108572/pexels-photo-1108572.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop',
     title: 'Global Market Leadership',
     subtitle: 'Delivering premium coal and iron ore products to international markets with consistent quality and reliability.',
     cta: 'Global Reach'
   },
   {
     id: 8,
-    image: 'https://images.pexels.com/photos/1108572/pexels-photo-1108572.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop',
+    image: 'https://images.pexels.com/photos/162568/mining-quarry-stone-coal-162568.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop',
     title: 'Environmental Excellence',
     subtitle: 'Leading environmental rehabilitation and biodiversity conservation initiatives across our mining operations.',
     cta: 'Environmental Programs'
