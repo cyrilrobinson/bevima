@@ -24,9 +24,9 @@ const Header = () => {
           {/* Logo */}
           <Link to="/" className="flex items-center">
             <img 
-              src="/mainlogotop.png" 
+              src="/logowhite.png" 
               alt="Bevima Energy International" 
-              className="h-20 w-auto"
+              className="h-16 w-auto"
             />
           </Link>
 

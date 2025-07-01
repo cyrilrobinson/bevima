@@ -11,9 +11,9 @@ const Footer = () => {
           <div className="space-y-4">
             <div className="flex items-center">
               <img 
-                src="/mainlogo copy.png" 
+                src="/logoblack.png" 
                 alt="Bevima Energy International" 
-                className="h-18 w-auto"
+                className="h-16 w-auto"
               />
             </div>
             <p className="text-gray-300 text-sm leading-relaxed">
